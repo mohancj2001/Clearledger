@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 740" fill="none">
+  <defs>
+    <linearGradient id="desk" x1="55" y1="40" x2="850" y2="710" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E7EDE3"/>
+      <stop offset="1" stop-color="#D2DDD1"/>
+    </linearGradient>
+    <linearGradient id="sheet" x1="337" y1="126" x2="708" y2="590" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFEFA"/>
+      <stop offset="1" stop-color="#F2F1E8"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#desk)" d="M0 0h900v740H0z"/>
+  <circle cx="124" cy="115" r="102" fill="#F5F0DC"/>
+  <circle cx="790" cy="649" r="153" fill="#B6C8B6" fill-opacity=".56"/>
+  <path d="M0 521c134-67 269-57 398 2 156 71 314 50 502-28v245H0V521Z" fill="#C5D2C4"/>
+  <path d="M87 201c-33-38-37-84-12-136 54 28 76 69 63 123 26-44 66-62 121-51-17 57-54 86-111 87" fill="#789579"/>
+  <path d="M140 230v114" stroke="#5F7B62" stroke-width="9" stroke-linecap="round"/>
+  <path d="M93 327h102l-14 102h-74L93 327Z" fill="#B37C5C"/>
+  <path d="M104 351h81" stroke="#94644B" stroke-width="7"/>
+  <g transform="rotate(-8 370 345)">
+    <rect x="272" y="141" width="275" height="425" rx="14" fill="#E2E9DE"/>
+    <rect x="296" y="164" width="275" height="425" rx="14" fill="url(#sheet)"/>
+    <path d="M333 207h83" stroke="#9CAE8C" stroke-width="8" stroke-linecap="round"/>
+    <text x="333" y="256" fill="#263F34" font-family="Arial,sans-serif" font-size="23" font-weight="700">Your tax checklist</text>
+    <text x="333" y="281" fill="#879184" font-family="Arial,sans-serif" font-size="12">A FEW SIMPLE NEXT STEPS</text>
+    <path d="M333 320h198m-198 66h198m-198 66h198m-198 66h170" stroke="#DCE1D8" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="347" cy="348" r="12" fill="#E3EAD9"/>
+    <path d="m341 348 5 5 8-10" stroke="#587856" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="347" cy="414" r="12" fill="#E3EAD9"/>
+    <path d="m341 414 5 5 8-10" stroke="#587856" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="347" cy="480" r="12" fill="#F0EBD9"/>
+  </g>
+  <g transform="rotate(8 650 440)">
+    <rect x="593" y="288" width="191" height="266" rx="18" fill="#294A3D"/>
+    <rect x="606" y="304" width="165" height="235" rx="11" fill="#F2F1E8"/>
+    <text x="627" y="342" fill="#698166" font-family="Arial,sans-serif" font-size="12" font-weight="700">CLEARLEDGER</text>
+    <rect x="626" y="358" width="125" height="42" rx="7" fill="#E4EBDD"/>
+    <text x="638" y="384" fill="#284537" font-family="Arial,sans-serif" font-size="17" font-weight="700">$4,280</text>
+    <path d="M628 422h116m-116 29h116m-116 29h116" stroke="#D9DED4" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="639" cy="504" r="11" fill="#DCE7CE"/>
+    <path d="m635 504 3 3 6-7" stroke="#34533F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M615 554h147" stroke="#A3B29E" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(235 580)">
+    <rect width="114" height="96" rx="15" fill="#EEDFCB"/>
+    <path d="M18 29h78M18 48h78M18 67h49" stroke="#BD9D78" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(747 174)">
+    <circle cx="31" cy="31" r="31" fill="#F7F4E9"/>
+    <path d="m18 31 9 9 18-21" stroke="#6F8B69" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
